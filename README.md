@@ -2,9 +2,7 @@
 
 ## User Story:
 
-```
-Marketing agency wants a codebase that follows accessibility standards.
-```
+Marketing agency wants a codebase that follows accessibility standards, for optimization for search engines. Here is the [live site](https://themancalledzac.github.io/Edens_01_Code_Refactor_01/) to view changes.
 
 ## Acceptance Criteria:
 
