@@ -26,6 +26,8 @@ Marketing agency wants a codebase that follows accessibility standards.
 3. Semantics change for Main
 4. Semantics change for Footer
 5. Search Engine Optimization link now functions properly
+6. changed the hero div to an id, added label.
+
 ```
 
 ## CSS Changes
@@ -37,6 +39,5 @@ Marketing agency wants a codebase that follows accessibility standards.
 4. Updated Main and Aside (.benefits and .content initially)tags from initial class elements.
 5. Moved Main css above Aside css to match HTML
 6. Semantics change for footer.
-
-
+7. Updated .hero to #hero.
 ```
