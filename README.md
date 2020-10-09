@@ -22,7 +22,10 @@ Marketing agency wants a codebase that follows accessibility standards.
 
 ```
 1. Img alt tags for all images on page for accessibility.
-2. Semantics change for Header and it's child Nav.
+2. Semantics change for Header (and child div Nav)
+3. Semantics change for Main
+4. Semantics change for Footer
+5. Search Engine Optimization link now functions properly
 ```
 
 ## CSS Changes
@@ -32,5 +35,8 @@ Marketing agency wants a codebase that follows accessibility standards.
 2. Consolidation for .benefits and it's children,
 3. Consolidation for .content and it's children Divs, including div children img and h2.
 4. Updated Main and Aside (.benefits and .content initially)tags from initial class elements.
+5. Moved Main css above Aside css to match HTML
+6. Semantics change for footer.
+
 
 ```
