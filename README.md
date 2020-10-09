@@ -21,7 +21,8 @@ Marketing agency wants a codebase that follows accessibility standards.
 ## HTML Changes
 
 ```
-1. img alt tags for all images on page for accessibility.
+1. Img alt tags for all images on page for accessibility.
+2.
 ```
 
 ## CSS Changes
