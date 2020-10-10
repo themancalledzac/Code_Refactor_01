@@ -25,8 +25,11 @@ Marketing agency wants a codebase that follows accessibility standards, for opti
 4. Semantics change for Footer
 5. Search Engine Optimization link now functions properly
 6. changed the hero div to an id, added label.
+Updated title to better reflect page.
 
 ```
+
+![Original HTML](/assets/images/initial_index.PNG) ![Updated HTML](/assets/images/fixed_index.PNG)
 
 ## CSS Changes
 
@@ -39,3 +42,5 @@ Marketing agency wants a codebase that follows accessibility standards, for opti
 6. Semantics change for footer.
 7. Updated .hero to #hero.
 ```
+
+![Original CSS](/assets/images/initial_css.PNG) ![Updated CSS](/assets/images/fixed_css.PNG)
