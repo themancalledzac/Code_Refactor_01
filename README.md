@@ -29,7 +29,9 @@ Updated title to better reflect page.
 
 ```
 
-![Original HTML](/assets/images/initial_index.PNG) ![Updated HTML](/assets/images/fixed_index.PNG)
+![Original HTML](/assets/images/initial_index.PNG) ![Updated HTML](/assets/images/fixed_index.png)
+
+<!-- [Original HTML] ![Updated HTML](/assets/images/fixed_index.PNG) -->
 
 ## CSS Changes
 
@@ -43,4 +45,4 @@ Updated title to better reflect page.
 7. Updated .hero to #hero.
 ```
 
-![Original CSS](/assets/images/initial_css.PNG) ![Updated CSS](/assets/images/fixed_css.PNG)
+![Original CSS](/assets/images/initial_css.PNG) [Updated CSS](/assets/images/fixed_css.PNG)
