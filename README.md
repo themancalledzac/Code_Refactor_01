@@ -29,7 +29,7 @@ Updated title to better reflect page.
 
 ```
 
-![Original HTML] ![Updated HTML](/assets/images/fixed_index.png)
+![Original HTML](/assets/images/initial_index.png) ![Updated HTML](/assets/images/fixed_index.png)
 
 <!-- [Original HTML] ![Updated HTML](/assets/images/fixed_index.PNG) -->
 
