@@ -45,4 +45,4 @@ Updated title to better reflect page.
 7. Updated .hero to #hero.
 ```
 
-![Original CSS](/assets/images/initial_css.PNG) [Updated CSS](/assets/images/fixed_css.PNG)
+![Original CSS](/assets/images/initial_css.PNG) ![Updated CSS](/assets/images/fixed_css.png)
